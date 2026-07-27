@@ -14,5 +14,7 @@ vless://bm9uZTpjZmRlMGFiYS0wOTg1LTQwMzQtYWI5Mi01MGIxNTM0YjEyNmNAMTUxLjEwMS41Ni43
 hysteria2://e1bd5c86-721c-4a2d-bdf8-ba50e522ec57@uk.xfj123.top:8881?peer=127.0.0.1&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20US%20065%20%7C%20%E2%AC%87%EF%B8%8F%202MB/s
 hysteria://5.83.129.143:26691?auth=dongtaiwang.com&peer=apple.com&insecure=1&upmbps=11%20Mbps&downmbps=55%20Mbps&alpn=h3&obfs=xplus&protocol=udp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20402%20%7C%20%E2%AC%87%EF%B8%8F%203MB/s
 hysteria://5.83.129.153:20088?auth=dongtaiwang.com&peer=apple.com&insecure=1&upmbps=500&downmbps=1000&alpn=h3&protocol=udp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20618%20%7C%20%E2%AC%87%EF%B8%8F%203MB/s
+vless://YXV0bzpkN2ZjMzcyZC1jMDU3LTQzY2UtODA3MC05Yjk2YWJiYzYwZjNAbmx4LnJha2V0YS1iYWxhbmNlLmNvbTo0NDM?path=/api/v1/data&remarks=%F0%9F%87%B3%F0%9F%87%B1%20NL%20541%20%7C%20%E2%AC%87%EF%B8%8F%206MB/s&obfsParam=%7B%22host%22:%22nlx.raketa-balance.com%22%7D&obfs=xhttp&tls=1&peer=nlx.raketa-balance.com&udp=1&mode=auto&pbk=j8V37xe0Tk5NZuaFLl8ygSF8CRnCviGXdtZlDqlWOBk&sid=8a167a8aeb7b77d5&fingerprint=firefox
+hysteria2://72bcd6fe388a12c386a1c40ff55f6c1e@proxy.sailreach.org:8443?peer=proxy.sailreach.org&obfs=salamander&obfs-password=ed56da70f1614311cbfc1e87#%F0%9F%87%BA%F0%9F%87%B8%20US%20057%20%7C%20%E2%AC%87%EF%B8%8F%204MB/s
 
 
