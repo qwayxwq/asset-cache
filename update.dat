@@ -9,5 +9,10 @@ hysteria://5.83.129.143:26691?auth=dongtaiwang.com&peer=apple.com&insecure=1&upm
 vless://YXV0bzozNDJhYjdlNC01YTg5LTAwMDEtODgwOS0zMDQxMjBkNGFhODNAOTUuODUuMjI0LjUxOjQ0Mw?remarks=%F0%9F%87%AB%F0%9F%87%AE%20FI%20056%20%7C%20%E2%AC%87%EF%B8%8F%206MB/s&tls=1&peer=max.ru&udp=3&xtls=2&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fingerprint=qq
 trojan://MiTiVPN@104.18.36.192:443?allowInsecure=1&peer=hk1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3D%7B%22Host%22:%22hk1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR%22%7D;obfs-uri%3D/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/HK---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%F0%9F%87%AD%F0%9F%87%B0%20HK%20007%20%7C%20%E2%AC%87%EF%B8%8F%2018MB/s
 vless://bm9uZTo1YzE5MmZkNy1lZjk4LTQxMTItYTIwYy0xMjkxMDhmY2Q3ZTlAMjE3LjYwLjE5My4xOjQ0Mw?remarks=%F0%9F%87%A9%F0%9F%87%AA%20DE%20094%20%7C%20%E2%AC%87%EF%B8%8F%203MB/s&tls=1&peer=ddc-akn.astralweb.tech&alpn=h2&udp=3&fingerprint=firefox
+anytls://3208db3a-a94b-4aae-86f2-7ddae5cd9f05@154.23.172.16:443?peer=sources.debian13.com&udp=1#%5BUnited%20States%5D%20%E7%BE%8E%E5%9B%BD%E7%9B%B4%E8%BF%9E3
+anytls://3208db3a-a94b-4aae-86f2-7ddae5cd9f05@0728sg4.debian13.com:443?peer=buzz.debian13.com&udp=1#%5BSingapore%5D%20%E6%96%B0%E5%8A%A0%E5%9D%A12-%E6%9E%81%E9%80%9F%20%5B%E6%8E%A8%E8%8D%90%5D
+anytls://3208db3a-a94b-4aae-86f2-7ddae5cd9f05@0728hkhk2.debian13.com:443?peer=debhelper.debian13.com&udp=1#%5BTW%5D%20%E5%8F%B0%E6%B9%BE5-%E6%9E%81%E9%80%9F
+anytls://3208db3a-a94b-4aae-86f2-7ddae5cd9f05@0728sgsg2.debian13.com:443?peer=nala.debian13.com&udp=1#%5BChina%5D%20%E4%B8%AD%E5%9B%BD%E6%BE%B3%E9%97%A8
+
 
 
