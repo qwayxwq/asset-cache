@@ -7,4 +7,7 @@ hysteria2://ONmAzcPKwC@gary01.1688848.xyz:46514?peer=www.bing.com&insecure=1&alp
 hysteria2://RCOxLY7ag7@gary02.1688848.xyz:33584?peer=www.bing.com&insecure=1&alpn=h3,h2,http/1.1&hpkp=ad6909212803cf5a57287de74ec6dce33d969adb231208ffc16c8768e7c68b78#SLC-hysteria2-33584%209.54EB%F0%9F%93%8A%2012571Days%E2%8F%B3
 hysteria://5.83.129.143:26691?auth=dongtaiwang.com&peer=apple.com&insecure=1&upmbps=11%20Mbps&downmbps=55%20Mbps&alpn=h3&obfs=xplus&protocol=udp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20402%20%7C%20%E2%AC%87%EF%B8%8F%203MB/s
 vless://YXV0bzozNDJhYjdlNC01YTg5LTAwMDEtODgwOS0zMDQxMjBkNGFhODNAOTUuODUuMjI0LjUxOjQ0Mw?remarks=%F0%9F%87%AB%F0%9F%87%AE%20FI%20056%20%7C%20%E2%AC%87%EF%B8%8F%206MB/s&tls=1&peer=max.ru&udp=3&xtls=2&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fingerprint=qq
+trojan://MiTiVPN@104.18.36.192:443?allowInsecure=1&peer=hk1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3D%7B%22Host%22:%22hk1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR%22%7D;obfs-uri%3D/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/HK---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%F0%9F%87%AD%F0%9F%87%B0%20HK%20007%20%7C%20%E2%AC%87%EF%B8%8F%2018MB/s
+vless://bm9uZTo1YzE5MmZkNy1lZjk4LTQxMTItYTIwYy0xMjkxMDhmY2Q3ZTlAMjE3LjYwLjE5My4xOjQ0Mw?remarks=%F0%9F%87%A9%F0%9F%87%AA%20DE%20094%20%7C%20%E2%AC%87%EF%B8%8F%203MB/s&tls=1&peer=ddc-akn.astralweb.tech&alpn=h2&udp=3&fingerprint=firefox
+
 
